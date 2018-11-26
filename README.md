@@ -1,2 +1,1 @@
-# hello-world
-Hello World
+Just a jolly little play repository
